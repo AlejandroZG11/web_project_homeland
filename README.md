@@ -10,3 +10,7 @@ De patria a patria es una web de la Galería de Arte TripleTen que conecta a pro
 
 - **CSS**: Para los estilos y diseño visual, utilizando la metodología BEM para la organización de estilos.
 - **HTML5**: Para toda la estructura del contenido.
+
+## Link Github pages
+
+https://alejandrozg11.github.io/web_project_homeland/
